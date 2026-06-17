@@ -13,6 +13,7 @@ Building small browser-only tools for SaaS launch workflows.
 - Public Pro Kit manifest: https://qihaze123.github.io/billing-webhook-kit/pro-kit-manifest.json
 - Guide index: https://qihaze123.github.io/billing-webhook-kit/guides/
 - Webhook test checklist: https://gist.github.com/qihaze123/3a13c5533c0e4fe69a3b0759668e9789
+- Next.js raw-body checklist: https://gist.github.com/qihaze123/2454b3cf56333186eb3f6de89cc51927
 - Repository: https://github.com/qihaze123/billing-webhook-kit
 
 The hosted tool has no backend and does not upload webhook signing secrets. The Pro Kit checkout is intentionally disabled until live Lemon Squeezy production configuration is connected.
