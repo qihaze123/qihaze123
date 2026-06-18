@@ -21,6 +21,8 @@ Building small browser-only tools for SaaS launch workflows.
 - Next.js raw-body checklist: https://gist.github.com/qihaze123/2454b3cf56333186eb3f6de89cc51927
 - Event coverage checklist: https://gist.github.com/qihaze123/e84d325435f7d70a03a38542cadd601e
 - Production checkout go-live checklist: https://gist.github.com/qihaze123/030e189b70aca77bd37bdc271012c38d
+- Vercel Lemon Squeezy webhook debugger checklist: https://gist.github.com/qihaze123/9c7b6379513f6b66161451cb0cea1166
+- Endpoint smoke test checklist: https://gist.github.com/qihaze123/f0de1d548e7e5887d8d6e7341b4c7629
 - Repository: https://github.com/qihaze123/billing-webhook-kit
 
 The hosted tool has no backend and does not upload webhook signing secrets. The Pro Kit checkout is intentionally disabled until live Lemon Squeezy production configuration is connected.
